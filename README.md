@@ -1,1 +1,2 @@
 # Blogger
+A basic blogger.
